@@ -23,5 +23,5 @@ int main()
     }
     printf("\nSecond Minimum is %d\n",arr[1]);
     printf("Second Maximum is %d",arr[8]);
-
+return 0;
 }
